@@ -173,6 +173,15 @@
         margin-right: auto;
     }
 
+    .lista-menu:mouseo {
+
+    }
+
+    .opcoes__item:hover, .opcoes__link:hover {
+        background: var(--azul-degrade);
+        color: white;
+    }
+
     .lista-rodape__link:hover {
         color: var(--laranja)
     }
